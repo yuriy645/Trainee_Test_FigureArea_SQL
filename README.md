@@ -5,7 +5,7 @@ Write a C# library for delivery to external clients that can calculate the area 
 In addition to performance, we evaluate:
 - Unit tests
 - Ease of adding other shapes.
- You can simply add Figure_Lib?.dll with other figures to the library project
+ You can simply add Figure_Lib?.dll with other figures to the library project.
 
 - Calculating the area of a figure without knowing the type of figure in compile-time.
  Implemented input of figure data separated by a space. How many values there will be, this type will work for the calculation.
