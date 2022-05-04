@@ -1,6 +1,6 @@
 # Trainee_Test_FigureArea_SQL
 
-##1
+## 1
 Write a C# library for delivery to external clients that can calculate the area of ​​a circle from its radius and a triangle from three sides.
 In addition to performance, we evaluate:
 - Unit tests
@@ -13,7 +13,7 @@ In addition to performance, we evaluate:
 - Checking if a triangle is a rectangular triangle
  The check is built in. The interface of the type that performs the calculation provides an output comment.
  
- ##2
+ ## 2
 MS SQL Server database has products and categories.
 One product can have many categories, and one category can have many products.
 Write an SQL query to select all pairs of "Product Name - Category Name".
