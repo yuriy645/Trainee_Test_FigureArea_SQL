@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Figure_Lib1\Figure_Lib1.csproj" />
+    <ProjectReference Include="..\Figure_Lib2\Figure_Lib2.csproj" />
+  </ItemGroup>
+
+</Project>
